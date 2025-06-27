@@ -11,4 +11,3 @@ public class JpaApplication {
 	}
 
 }
-//prueba de version 27062025
